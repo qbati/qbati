@@ -33,11 +33,25 @@
 
 ### Professional Certifications
 <div align="left">
-  <img src="https://img.shields.io/badge/CompTIA-Security+-000000?style=flat-square&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA-Linux+-000000?style=flat-square&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-CCNA_Routing_&_Switching-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Certified-Cyber_Hacker_(CHC)-333333?style=flat-square" />
-  <img src="https://img.shields.io/badge/Certified-Cyber_Web_(CWC)-333333?style=flat-square" />
+  <a href="https://techcampus.com/verify/1727196094">
+    <img src="https://img.shields.io/badge/CompTIA-Security+-000000?style=flat-square&logo=comptia&logoColor=white" />
+  </a>
+  
+  <a href="https://techcampus.com/verify/3787964331">
+    <img src="https://img.shields.io/badge/CompTIA-Linux+-000000?style=flat-square&logo=comptia&logoColor=white" />
+  </a>
+  
+  <a href="https://techcampus.com/verify/2382070959">
+    <img src="https://img.shields.io/badge/Cisco-CCNA_300--201-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+  </a>
+  
+  <a href="https://techcampus.com/verify/3807802507">
+    <img src="https://img.shields.io/badge/Certified-Cyber_Hacker_(CHC)-333333?style=flat-square" />
+  </a>
+  
+  <a href="https://techcampus.com/verify/3816000009">
+    <img src="https://img.shields.io/badge/Certified-Cyber_Web_(CWC)-333333?style=flat-square" />
+  </a>
 </div>
 
 <br>
